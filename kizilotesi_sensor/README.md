@@ -22,3 +22,7 @@ When an object is detected, LEDs indicate the obstacle and a buzzer is activated
 
 ## Notes
 The IR sensor output is active-LOW by design.
+
+## Circuit Diagram
+Below is a diagram showing the actual connection of the circuit that has been assembled:
+![Circuit Diagram](Ir_sensor_.jpeg)
