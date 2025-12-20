@@ -5,4 +5,5 @@ Each folder represents a separate project.
 
 ## Projects
 - IR Obstacle Sensor with Buzzer
--DS1307 RTC module
+- DS1307 RTC module
+
